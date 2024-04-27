@@ -1,2 +1,2 @@
-# ComfyUI_hf_model_dowload
-A basic model downloader for comfyUI,
+# ComfyUI_PBR_Maker
+make PBR materials
