@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_pbr_maker"
+description = "you can make PBR in comfyUI"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/smthemex/ComfyUI_PBR_Maker"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "smthemex"
+DisplayName = "ComfyUI_PBR_Maker"
+Icon = ""
